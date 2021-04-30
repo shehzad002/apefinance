@@ -4,7 +4,18 @@ import styled from 'styled-components'
 const Nav: React.FC = () => {
   return (
     <StyledNav>
-      
+      <StyledLink
+        target="_blank"
+        href="#"
+      >
+        MasterChef Contract
+      </StyledLink>
+      {<StyledLink
+        target="_blank"
+        href="https://uniswap.info/pair/0xce84867c3c02b05dc570d0135103d3fb9cc19433"
+      >
+        ApeSwap APE-BNB
+      </StyledLink> */}
       <StyledLink target="_blank" href="#">
         Discord
       </StyledLink>
