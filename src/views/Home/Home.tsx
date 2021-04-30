@@ -26,7 +26,7 @@ const Home: React.FC = () => {
           margin: '0 auto',
         }}
       >
-        <Button text="🔪 See the Farm" to="/farms" variant="secondary" />
+        <Button text="🦍🚀🤝 Farms" to="/farms" variant="secondary" />
       </div>
     </Page>
   )
