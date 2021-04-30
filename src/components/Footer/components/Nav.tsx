@@ -25,7 +25,7 @@ const Nav: React.FC = () => {
       <StyledLink target="_blank" href="http://twitter.com/apefinanceorg">
         Twitter
       </StyledLink>
-      <StyledLink target="_blank" href="#">
+      <StyledLink target="_blank" href="https://apeinspace.medium.com/">
         Medium
       </StyledLink>
     </StyledNav>
