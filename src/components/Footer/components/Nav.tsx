@@ -4,11 +4,11 @@ import styled from 'styled-components'
 const Nav: React.FC = () => {
   return (
     <StyledNav>
-      <StyledLink
+      /*<StyledLink
         target="_blank"
         href="#"
       >
-       /* MasterChef Contract
+        MasterChef Contract
       </StyledLink>
       {<StyledLink
         target="_blank"
