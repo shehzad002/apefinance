@@ -10,7 +10,7 @@ const Nav: React.FC = () => {
       >
         MasterChef Contract
       </StyledLink>
-      {/*<StyledLink
+      {<StyledLink
         target="_blank"
         href="https://uniswap.info/pair/0xce84867c3c02b05dc570d0135103d3fb9cc19433"
       >
@@ -22,10 +22,10 @@ const Nav: React.FC = () => {
       <StyledLink target="_blank" href="#">
         Github
       </StyledLink>
-      <StyledLink target="_blank" href="#">
+      <StyledLink target="_blank" href="http://twitter.com/apefinanceorg">
         Twitter
       </StyledLink>
-      <StyledLink target="_blank" href="#">
+      <StyledLink target="_blank" href="https://apeinspace.medium.com/">
         Medium
       </StyledLink>
     </StyledNav>

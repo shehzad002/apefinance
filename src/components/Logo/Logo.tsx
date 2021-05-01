@@ -6,9 +6,9 @@ import chef from '../../assets/img/chef.png'
 const Logo: React.FC = () => {
   return (
     <StyledLogo to="/">
-      {/* <img src={chef} height="32" style={{ marginTop: -4 }} /> */}
+      { <img src={chef} height="32" style={{ marginTop: -4 }} /> }
       <StyledText>
-        ApeFinance{' '}
+        Ape Finance{'chef'}
         
       </StyledText>
     </StyledLogo>

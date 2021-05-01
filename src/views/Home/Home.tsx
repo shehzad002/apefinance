@@ -13,8 +13,8 @@ const Home: React.FC = () => {
     <Page>
       <PageHeader
         icon={<img src={chef} height={120} />}
-        title="ApeFinance"
-        subtitle="Stake ApeFinance LP tokens to claim your very own  APE!"
+        title="Ape Finance"
+        subtitle="Ape into staking and get more APES!"
       />
 
       <Container>
@@ -26,7 +26,7 @@ const Home: React.FC = () => {
           margin: '0 auto',
         }}
       >
-        <Button text="🔪 See the Farm" to="/farms" variant="secondary" />
+        <Button text="🦍🚀🤝 Farms" to="/farms" variant="secondary" />
       </div>
     </Page>
   )
